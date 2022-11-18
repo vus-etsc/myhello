@@ -1,0 +1,9 @@
+/* CSS for MyHelloXBlock */
+
+.myhello_block .count {
+    font-weight: bold;
+}
+
+.myhello_block p {
+    cursor: pointer;
+}

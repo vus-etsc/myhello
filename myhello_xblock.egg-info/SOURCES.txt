@@ -1,0 +1,13 @@
+setup.py
+myhello/__init__.py
+myhello/myhello.py
+myhello/static/README.txt
+myhello/static/css/myhello.css
+myhello/static/html/myhello.html
+myhello/static/js/src/myhello.js
+myhello_xblock.egg-info/PKG-INFO
+myhello_xblock.egg-info/SOURCES.txt
+myhello_xblock.egg-info/dependency_links.txt
+myhello_xblock.egg-info/entry_points.txt
+myhello_xblock.egg-info/requires.txt
+myhello_xblock.egg-info/top_level.txt
